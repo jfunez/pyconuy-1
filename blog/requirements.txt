@@ -1,2 +1,2 @@
 django==1.4.2
-django-tastypie
+django-tastypie==0.9.16
